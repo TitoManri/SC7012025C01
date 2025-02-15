@@ -1,0 +1,6 @@
+@PracticaAzuree_HostAddress = http://localhost:5268
+
+GET {{PracticaAzuree_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
